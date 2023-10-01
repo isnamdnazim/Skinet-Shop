@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6eTm73K6BLMVYck6EXdJlGBSi0qjI+mNga8TMMQADWzNTg/tEH8QviwgTdGQkMcHGwFCIAPVwd5oOom3we/3Hw==",
+  "success": true,
+  "projectFilePath": "E:\\NAZIM\\Projects\\Nazim\\e-com-app-with-net-core-and-angular\\skinetShop\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nazim\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\nazim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\nazim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
