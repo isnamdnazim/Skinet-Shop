@@ -9,3 +9,4 @@ E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\Core\obj\
 E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\Core\obj\Debug\net7.0\refint\Core.dll
 E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\Core\obj\Debug\net7.0\Core.pdb
 E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\Core\obj\Debug\net7.0\ref\Core.dll
+E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\Core\obj\Debug\net7.0\Core.sourcelink.json

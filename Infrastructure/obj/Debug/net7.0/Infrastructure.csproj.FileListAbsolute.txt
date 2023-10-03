@@ -13,3 +13,4 @@ E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\Infrastru
 E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json

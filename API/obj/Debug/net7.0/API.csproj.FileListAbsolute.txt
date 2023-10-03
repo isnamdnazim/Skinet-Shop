@@ -78,3 +78,4 @@ E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\API\bin\D
 E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\API\bin\Debug\net7.0\Infrastructure.dll
 E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\API\bin\Debug\net7.0\Infrastructure.pdb
 E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\API\bin\Debug\net7.0\Core.pdb
+E:\NAZIM\Projects\Nazim\e-com-app-with-net-core-and-angular\skinetShop\API\obj\Debug\net7.0\API.sourcelink.json
